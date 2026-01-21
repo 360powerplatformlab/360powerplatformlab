@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Pere
+👋 Hi, I'm Perekezimo Willimo
 
 I'm a Microsoft Power Platform specialist with hands-on experience in:
 - Power Automate (enterprise workflows, approvals, integrations)
