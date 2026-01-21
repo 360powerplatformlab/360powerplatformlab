@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Pere
+
+I'm a Microsoft Power Platform specialist with hands-on experience in:
+- Power Automate (enterprise workflows, approvals, integrations)
+- Power Apps (building scalable applications)
+- SharePoint Online & Excel Online
+- Microsoft 365 & Entra ID
+- Business process documentation
+- Business process automation and reporting
+
+🔧 Featured Projects
+- Leave Management Automation (Power Automate + SharePoint + Excel)
+- Expense Approval Automation
+- Executive Tasks Reminder Automation
+- Email Ingestion & Reporting Automation
+- Approval Workflows with Business Rules
+
+📫 Contact
+- LinkedIn: www.linkedin.com/in/perekezimowillimo
+- Email: perekezimo.willimo@hotmail.com
